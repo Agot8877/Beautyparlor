@@ -1,0 +1,1 @@
+# Beautyparlor Information system that will allow you Create Read Update Delete Employee,Job,Tools,Customers,Services and some functions like updating quantity to the employee if you assign the desired number of quantity also a List of services with a checkbox if selected it will add to the database with the total amount you selected.
